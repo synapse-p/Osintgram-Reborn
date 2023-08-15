@@ -216,7 +216,7 @@ def cmd_info(target):
     
 
 def main():
-    os.system('cls')
+    os.system('clear')
     print(Center.XCenter(Fore.YELLOW + osintgram))
     print(Center.XCenter(Box.Lines("REBORN BY YUX")))
     print('\n'*3)
